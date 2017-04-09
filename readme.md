@@ -2,7 +2,7 @@
 ###_This simple as can be web app will show you current temperature with a beautiful background images_
 
 ##[Check out demo!](https://www.google.com)
-![alt text](images/demo1.png "Logo Title Text 1")
+![alt text](images/demo1.png "Loacl weather")
 ###Features:
 
 * Show current temperature for your actual location
