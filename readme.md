@@ -3,7 +3,7 @@ _This simple as can be web app will show you current_
 
 _temperature with a beautiful background images_
 
-## [Check out demo!](https://www.google.com)
+## [Check out demo!](https://mmazurkiewicz.github.io/local-weather/)
 ![Local weather](images/demo1.png "Loacl weather")
 ### Features:
 
