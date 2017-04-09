@@ -48,7 +48,7 @@ h1 {
     padding-bottom: 3em;
 }
 
-@media (min-width: 401px) and (max-width: 800px) {
+@media (min-width: 450px) and (max-width: 800px) {
     #weather {
         min-width: 70%;
     }
