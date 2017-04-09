@@ -1,4 +1,4 @@
-### LOCAL WEATHER
+# LOCAL WEATHER
 _This simple as can be web app will show you current_
 
 _temperature with a beautiful background images_
