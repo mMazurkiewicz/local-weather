@@ -1,18 +1,18 @@
-#**LOCAL WEATHER**
+### LOCAL WEATHER
 _This simple as can be web app will show you current_
 
 _temperature with a beautiful background images_
 
-##[Check out demo!](https://www.google.com)
-![alt text](images/demo1.png "Loacl weather")
-###Features:
+## [Check out demo!](https://www.google.com)
+![Local weather](images/demo1.png "Loacl weather")
+### Features:
 
 * Show current temperature for your actual location
 * Different background image depends on current weather
 * Click temperature to change units
 * It's responsive
 
-###Made with:
+### Made with:
 * HTML
 * CSS
 * jQuery
