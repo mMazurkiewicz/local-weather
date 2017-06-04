@@ -32,8 +32,8 @@ function loadWeather(location, woeid) {
             let html = '<div id="temp"> <h1>' + weather.temp + '&deg;' + weather.units.temp + '</h1><h1 style="display: none">' + weather.alt.temp + '&deg;' + weather.alt.unit + '</h1></div>';
             html += '<div id="current"><h4>' + weather.currently + '</h4></div>';
             html += '<div id="location"><p>' + weather.city + ', ' + weather.country + '</p></div>';
-            html += '<div id="full"><a href="' + weather.link + '">full forecast on Yahoo!</a></div>';
-
+            html += '<div id="full"><a href="' + weather.link + '" target=_blank>full forecast on Yahoo!</a></div>';
+            console.log(weather.link);
             $("#weather").html(html);
             $("#temp").click(function() {
                 $('h1').slideToggle('fast');
